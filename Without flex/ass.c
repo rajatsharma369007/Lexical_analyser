@@ -1,3 +1,7 @@
+// this is a C program to implement lexical analyser without using flex tool
+// Author: Rajat Sharma
+// Date: February, 2018
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
